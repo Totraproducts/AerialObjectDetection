@@ -1,8 +1,12 @@
 # AeialObjectDetection
 Aerial Object detection on DOTA-v2.0
 ## Important Links
+### Git repos
 1. https://github.com/postor/DOTA-yolov3
 2. https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow
+
+### Papers
+1. Oriented RepPoints for Aerial Object Detection: https://arxiv.org/pdf/2105.11111.pdf
 
 ## Git Basic commands
 
