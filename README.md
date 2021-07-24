@@ -7,6 +7,7 @@ Aerial Object detection on DOTA-v2.0
 
 ### Papers
 1. Oriented RepPoints for Aerial Object Detection: https://arxiv.org/pdf/2105.11111.pdf
+2. Object Detection in Aerial Images:A Large-Scale Benchmark and Challenges: https://arxiv.org/pdf/2102.12219.pdf
 
 ## Git Basic commands
 
