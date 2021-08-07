@@ -191,7 +191,7 @@ def sendToCropImageBBox(mainPath):
 	* mainPath: Path where sub-folder with object class name will create
 	'''
 	ObjectCoordinatesList, ObjectNamesList, ObjectDifficultyList = getBBoxList(labelPath+os.sep+labelName)
-	print('Number of Objects: {}'.format(len(ObjectCoordinatesList)))
+	print('Number of Objects: %d'%(len(ObjectCoordinatesList)))
 	for dirName in set(ObjectNamesList):
 		if not os.path.exists(mainPath+os.sep+dirName):
 	    			os.makedirs(mainPath+os.sep+dirName)
